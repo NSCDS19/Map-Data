@@ -1,0 +1,253 @@
+ID,State,City,Death,Injury,SchoolType,NameSchool,Day,Year,MonthName,Month
+1,Alabama,Birmingham,0,0,Middle,OssieWareMitchellMiddleSchool,14,2013,May,5
+2,Alabama,Birmingham,1,2,High,HuffmanHighSchool,7,2018,Mar,3
+3,Alabama,Birmingham,2,1,University,UniversityofAlabamaatBirmingham,14,2018,Mar,3
+4,Alabama,Blounstville,0,1,Elementary,BlountsvilleElementarySchool,22,2019,Mar,3
+5,Alabama,Huntsville,3,3,University,UniversityofAlabama,12,2010,Feb,2
+6,Alabama,Madison,1,0,Middle,DiscoveryMiddleSchool,5,2010,Feb,2
+7,Alabama,Mobile,0,1,High,VigorHighSchool,11,2016,Oct,10
+8,Alabama,Mobile,0,1,University,UniversityofSouthAlabama,8,2018,Mar,3
+9,Alabama,Mobile,0,2,High,DavidsonHighSchool,25,2019,Jan,1
+10,Alabama,Montgomery,0,1,High,RobertE.LeeHighSchool,26,2019,Feb,2
+11,Arizona,Flagstaff,1,3,University,NorthernArizonaUniversity,9,2015,Oct,10
+12,Arizona,Glendale,2,0,High,IndependenceHighSchool,12,2016,Feb,2
+13,Arizona,Tucson,4,0,University,UniversityofArizona,28,2002,Oct,10
+14,Arkansas,Conway,2,1,University,UniversityofCentralArkansas,26,2008,Oct,10
+15,Arkansas,Fayetteville,2,0,University,UniversityofArkansas,28,2000,Aug,8
+16,Arkansas,Jonesboro,0,1,University,ArkansasStateUniversity,23,2008,Jan,1
+17,Arkansas,Little Rock,0,1,University,UniversityofArkansas ,27,2008,Feb,2
+18,Arkansas,Prescott,0,1,High,PrescottHighSchool,1,2019,Apr,4
+19,California,Belmont,1,0,Elementary,CentralElementarySchool,7,2019,Jan,1
+20,California,Carlsbad,0,2,Elementary,KellyElementarySchool,8,2010,Oct,10
+21,California,Compton,0,1,High,CentennialHighSchool,7,2007,Mar,3
+22,California,El Cajon,0,5,High,GraniteHillsHighSchool,22,2001,Mar,3
+23,California,Fresno,0,1,High,EdisonHighSchool,19,2013,Dec,12
+24,California,King City,0,1,High,KingCityHighSchool,21,2017,Mar,3
+25,California,Los Angeles,0,4,University,UniversityofSouthernCalifornia,31,2012,Oct,10
+26,California,Los Angeles,1,0,College,LosAngelesValleyCollege,25,2014,Jan,1
+27,California,Los Angeles,0,1,University,UniversityofSouthernCalifornia,12,2014,Feb,2
+28,California,Los Angeles,3,0,University,UniversityofCalifornia,1,2016,Jun,6
+29,California,Los Angeles,0,5,High,BelmontHighSchool,1,2018,Feb,2
+30,California,Merced,1,0,Middle,TenayaMiddleSchool,14,2015,Feb,2
+31,California,Oakland,7,3,University,OikosUniversity,2,2012,Apr,4
+32,California,Oxnard,1,0,Elementary,E.O.GreenJuniorHighSchool,12,2008,Feb,2
+33,California,Palmdale,0,1,High,HighlandHighSchool,11,2018,May,5
+34,California,Rancho Tehama Reserve,6,18,Elementary,RanchoTehamaElementarySchool,14,2017,Nov,11
+35,California,Richmond,0,1,High,JohnF.KennedyHighSchool,14,2014,May,5
+36,California,Sacramento,1,2,College,SacramentoCityCollege,3,2015,Sep,9
+37,California,Salinas,1,0,High,AlisalHighSchool ,1,2010,Oct,10
+38,California,San Bernardino,3,1,Elementary,NorthParkElementarySchool,10,2017,Apr,4
+39,California,San Bruno,0,1,College ,SkylineCollege ,3,2009,Sep,9
+40,California,San Diego,0,1,High,JuniperoSerraHighSchool ,1,2000,Dec,12
+41,California,San Francisco,0,3,High,InternationalStudiesAcademy,16,2009,Jun,6
+42,California,San Francisco,0,4,High,JuneJordanHighSchool,18,2016,Oct,10
+43,California,San Francisco,0,1,High,BalboaHighSchool,30,2018,Aug,8
+44,California,Santa Monica,6,4,College,SantaMonicaCollege,7,2013,Jun,6
+45,California,Santee,2,13,High,SantanaHighSchool,5,2001,Mar,3
+46,California,Seaside,0,1,High,SeasideHighSchool,13,2018,Mar,3
+47,California,Taft,0,2,High,TaftUnionHighSchool,10,2013,Jan,1
+48,Colorado,Arapahoe County,1,0,High,EaglecrestHighSchool,17,2019,Feb,2
+49,Colorado,Aurora,0,1,High,AuroraCentralHighSchool,6,2010,Dec,12
+50,Colorado,Bailey,2,0,High,PlatteCanyonHighSchool,27,2006,Sep,9
+51,Colorado,Centennial,2,0,High,ArapahoeHighSchool,13,2013,Dec,12
+53,Colorado,Littleton,0,2,Middle,DeerCreekMiddleSchool,23,2010,Feb,2
+54,Connecticut,New Haven,0,1,High,HillhouseHighSchool,13,2014,Jan,1
+55,Connecticut,Newtown,28,2,Elementary,SandyHookElementarySchool,14,2012,Dec,12
+57,Delaware,Dover,1,1,University,DelawareStateUniversity,21,2007,Sep,9
+56,DistricofColumbia,Washington,1,0,High,BallouHighSchool,2,2004,Feb,2
+58,Florida,Daytona Beach,0,3,University,Bethune-CookmanUniversity,23,2015,Feb,2
+59,Florida,Fort Lauderdale,1,0,High,DillardHighSchool,12,2008,Nov,11
+62,Florida,Lake Worth,1,0,Middle,LakeWorthMiddleSchool,26,2000,May,5
+63,Florida,Miami,0,1,High,StellarLeadershipAcademy,9,2014,Sep,9
+64,Florida,Miami,1,1,High,MiamiCarolCityHighSchool,20,2014,Nov,11
+65,Florida,Miami,0,0,University,FloridaInternationalUniversity,3,2019,Jan,1
+66,Florida,Miami Gardens,0,1,High,MiamiCarolCityHighSchool,11,2008,Feb,2
+67,Florida,Ocala,0,2,High,VanguardHighSchool,16,2015,Jan,1
+68,Florida,Ocala,0,1,High,ForestHighSchool,20,2018,Apr,4
+69,Florida,Orlando,1,0,University,UniversityofCentralFlorida,18,2013,Mar,3
+70,Florida,Palm Bay,0,1,College,EasternFloridaStateCollege,30,2014,Jan,1
+71,Florida,Parkland,17,17,High,MarjoryStonemanDouglasHighSchool,14,2018,Feb,2
+72,Florida,Pine Hills,0,2,Preschool,AgapeChristianAcademy,4,2013,Oct,10
+73,Florida,Riverview,0,0,Elementary,SummerfieldElementarySchool,6,2019,May,5
+74,Florida,Tallahassee,1,3,University,loridaStateUniversity,20,2014,Nov,11
+75,Florida,Wellington,0,2,High,PalmBeachCentralHighSchool,17,2018,Aug,8
+76,Florida,Winter Garden,0,1,High,WestOrangeHighSchool,4,2013,Dec,12
+77,Georgia,Albany,0,1,University,AlbanyStateUniversity,19,2011,Aug,8
+78,Georgia,Albany,0,2,University,AlbanyStateUniversity,13,2017,Nov,11
+79,Georgia,Atlanta,0,0,University,GeorgiaStateUniversity,20,2018,Aug,8
+80,Georgia,Atlanta,0,2,Middle,PriceMiddleSchool,31,2013,Jan,1
+81,Georgia,Augusta,0,1,University,GeorgiaRegentsUniversity,22,2014,Feb,2
+82,Georgia,Augusta,0,1,College,PaineCollege,4,2014,May,5
+83,Georgia,Augusta,0,1,College,PaineCollege,5,2014,May,5
+84,Georgia,College Park,0,0,High,BenjaminBannekerHigh,25,2014,Mar,3
+85,Georgia,DeKalb County,0,10,Elementary,WynbrookeElementarySchool,25,2019,Apr,4
+86,Georgia,Fairburn,1,0,High,LangstonHughesHighSchool,3,2014,Oct,10
+87,Georgia,Jonesboro,1,3,High,MountZionHighSchool,18,2018,May,5
+88,Georgia,Lawrenceville,0,1,College,GeorgiaGwinnettCollege,8,2014,May,5
+89,Georgia,Lithonia,0,2,High,StephensonHighSchool,3,2013,Nov,11
+90,Georgia,Lithonia,0,1,High,MillerGroveHighSchool,30,2019,Jan,1
+91,Georgia,Savannah,1,0,University,SavannahStateUniversity,27,2015,Aug,8
+92,Georgia,Savannah,1,0,University,SavannahStateUniversity,24,2018,Feb,2
+93,Georgia,Savannah,0,1,University,SavannahStateUniversity,7,2019,May,5
+95,Illinois,Carbondale,0,1,High,ReboundHighSchool,27,2014,Jan,1
+96,Illinois,Chicago,0,5,High,DunbarHighSchool,9,2009,Jan,1
+97,Illinois,Chicago,0,1,High,HarlanCommunityAcademyHighSchool,13,2005,Sep,9
+98,Illinois,Chicago,0,1,High,BowenHighSchool,8,2005,Feb,2
+99,Illinois,Chicago,1,0,High,BannerAcademySouth,19,2012,Oct,10
+100,Illinois,Chicago,1,0,University,ChicagoStateUniversity,16,2013,Jan,1
+101,Illinois,DeKalb,6,21,University,NorthernIllinoisUniversity,14,2008,Feb,2
+102,Illinois,DeKalb,0,1,University,NorthernIllinoisUniversity,19,2010,Feb,2
+103,Illinois,Dixon,0,1,High,HighlandHighSchool,16,2018,May,5
+104,Illinois,Mattoon,0,1,High,MattoonHighSchool,20,2017,Sep,9
+105,Illinois,Normal,0,0,High,NormalCommunityHighSchool,7,2012,Sep,9
+106,Indiana,Gary,1,0,High,LewWallaceHighSchool,30,2001,Mar,3
+107,Indiana,Indianapolis,0,1,High,LawrenceCentralHighSchool,22,2016,Jan,1
+108,Indiana,Martinsville,0,1,Middle,MartinsvilleWestMiddleSchool,25,2011,Mar,3
+109,Indiana,Noblesville,0,2,Middle,NoblesvilleWestMiddleSchool,25,2018,May,5
+110,Indiana,Richmond,1,0,Middle,DennisIntermediateSchool,13,2018,Dec,12
+111,Indiana,Terre Haute,0,1,University,IndianaStateUniversity,27,2014,Sep,9
+112,Indiana,West Lafayette,1,0,University,PurdueUniversity,21,2014,Jan,1
+113,Iowa,Des Moines,0,1,High,NorthHighSchool,31,2014,Jan,1
+114,Kansas,Overland Park,0,2,Middle,LakewoodMiddleSchool,19,2019,Jan,1
+115,Kentucky,Hazard,3,0,College,HazardCommunityandTechnicalCollege,15,2013,Jan,1
+116,Kentucky,Lexington,0,1,High,FrederickDouglassHighSchool,9,2018,Mar,3
+117,Kentucky,Louisville,0,1,High,FernCreekTraditionalHighSchool,30,2014,Sep,9
+118,Kentucky,Marshall County,2,18,High,MarshallCountyHighSchool,23,2018,Jan,1
+119,Louisiana,Baton Rouge,3,0,College,LouisianaTechnicalCollege ,8,2008,Feb,2
+120,Louisiana,Grambling,0,3,University,GramblingStateUniversity,16,2013,Apr,4
+121,Louisiana,Grambling,0,1,University,GramblingStateUniversity,7,2019,Mar,3
+122,Louisiana,Larose,1,0,Middle,Larose-CutOffMiddleSchool,18,2009,May,5
+123,Louisiana,New Orleans,1,3,High,JohnMcDonoghHighSchool,14,2003,Apr,4
+124,Louisiana,New Orleans,0,2,Middle,CarterG.WoodsonMiddleSchool,26,2000,Sep,9
+125,Louisiana,New Orleans,0,1,High,NETCharterHighSchool,22,2018,Jan,1
+126,Louisiana,Paradis,0,1,Middle,J.B.MartinMiddleSchool,16,2015,Apr,4
+127,Maryland,Baltimore,0,1,High,FrederickDouglassHighSchool,8,2019,Feb,2
+128,Maryland,Bowie,0,1,Middle,BenjaminTaskerMiddleSchool,7,2002,Oct,10
+129,Maryland,Frederick,0,2,High,FrederickHighSchool,4,2015,Feb,2
+130,Maryland,Great Mills,2,1,High,GreatMillsHighSchool,20,2018,Mar,3
+131,Maryland,Oxon Hill,0,1,High,OxonHillHighSchool,5,2018,Feb,2
+132,Maryland,Perry Hall,0,1,High,PerryHallSchool,27,2012,Aug,8
+133,Maryland,Randallstown,0,4,High,RandallstownHighSchool,7,2004,May,5
+134,Massachusetts,Cambridge,1,0,College,HarvardCollege,18,2009,May,5
+135,Massachusetts,Cambridge,1,0,Institute,MassachusettsInstituteofTechnology,18,2013,Apr,4
+136,Massachusetts,Dorchester,1,3,High,JeremiahBurkeHighSchool,8,2016,Jun,6
+137,Michigan,Detroit,1,3,High,FordHighSchool,16,2008,Oct,10
+138,Michigan,Detroit,0,2,High,MumfordHighSchool,8,2010,Sep,9
+139,Michigan,Detroit,0,1,High,OsbornHighSchool,12,2013,Jan,1
+140,Michigan,Detroit,1,0,High,EastEnglishVillagePreparatoryAcademy,11,2014,Apr,4
+141,Michigan,Flint,1,0,Elementary,BuellElementarySchool,29,2000,Feb,2
+142,Michigan,Flint,0,7,High,SouthwesternClassicalAcademy,24,2015,May,5
+143,Michigan,Mount Pleasant,2,0,University,CentralMichiganUniversity,2,2018,Mar,3
+144,Michigan,Muskegon Heights,0,4,High,MuskegonHeightsHighSchool,9,2016,Feb,2
+145,Minnesota,Cold Spring,2,0,High,RocoriHighSchool,24,2003,Sep,9
+146,Minnesota,Red Lake,10,7,High,RedLakeSeniorHighSchool,21,2005,Mar,3
+147,Mississippi,Cleveland,2,0,University,DeltaStateUniversity,14,2015,Sep,9
+148,Mississippi,Columbus,0,1,University,MississippiUniversityforWomen,4,2019,Jan,1
+150,Mississippi,Itta Bena,0,1,University,MississippiValleyStateUniversity,27,2018,Feb,2
+151,Mississippi,Jackson,0,1,University,JacksonStateUniversity,7,2018,Mar,3
+152,Mississippi,Sardis,1,2,High,NorthPanolaHighSchool,23,2013,Aug,8
+153,Missouri,Joplin,0,0,Middle,MemorialMiddleSchool,9,2006,Oct,10
+154,Missouri,Kansas City,1,0,High,CentralAcademyofExcellence,12,2019,Feb,2
+155,Missouri,Raytown,0,1,Middle,SouthMiddleSchool,12,2018,Apr,4
+156,Missouri,St. Louis,0,2,Institute,StevensInstituteofBusinessandArts,15,2013,Jan,1
+157,Missouri,University City,0,1,Elementary,PershingElementarySchool,30,2015,Mar,3
+158,Nebraska,Omaha,2,2,High,MillardSouthHighSchool,5,2011,Jan,1
+159,Nevada,Las Vegas,1,0,High,CanyonSpringsHighSchool,11,2018,Sep,9
+160,Nevada,North Las Vegas,1,0,High,MojaveHighSchool,20,2015,Nov,11
+161,Nevada,Reno,0,2,Middle,PineMiddleSchool,14,2006,Mar,3
+162,Nevada,Sparks,2,2,Middle,SparksMiddleSchool,21,2013,Oct,10
+163,NewJersey,Jersey City,0,1,High,LincolnHighSchool,29,2002,Oct,10
+164,NewJersey,Jersey City,0,0,High,SnyderHighSchool,2,2019,Jan,1
+165,NewMexico,Aztec,3,0,High,AztecHighSchool,7,2017,Dec,12
+166,NewMexico,Rio Rancho,0,0,High,ClevelandHighSchool,14,2019,Feb,2
+167,NewMexico,Roswell,0,3,Middle,BerrendoMiddleSchool,14,2014,Jan,1
+168,NewYork,East Greenbush,0,1,High,ColumbiaHighSchool ,9,2004,Feb,2
+169,NewYork,New York City,0,2,High,MartinLutherKingJr.HighSchool,15,2002,Jan,1
+170,NorthCarolina,Albemarle,0,1,High,AlbemarleHighSchool,30,2014,Sep,9
+171,NorthCarolina,Bladenboro,0,1,High,WestBladenHighSchool,11,2010,May,5
+172,NorthCarolina,Charlotte,2,4,University,UniversityofNorthCarolinaatCharlotte,30,2019,Apr,4
+173,NorthCarolina,Fayetteville,0,1,High,CapeFearHighSchool,24,2011,Oct,10
+174,NorthCarolina,Goldsboro,1,0,College,WayneCommunityCollege,13,2015,Apr,4
+175,NorthCarolina,Greensboro,0,1,University,NorthCarolinaA&TStateUniversity,2,2013,Nov,11
+176,NorthCarolina,Hillsborough,1,2,High,ColumbineHighschool,30,2006,Aug,8
+177,NorthCarolina,Matthews,1,1,High,CanyonSpringsHighSchool,29,2018,Oct,10
+178,NorthCarolina,Salisbury,0,1,High,SalisburyHighSchool ,10,2014,Feb,2
+179,NorthCarolina,Winston-Salem,0,1,High,CarverHighSchool,30,2013,Aug,8
+180,NorthCarolina,Winston-Salem,1,1,University,Winston-SalemStateUniversity,1,2015,Nov,11
+181,NorthCarolina,Winston-Salem,1,0,University,WakeForestUniversity,20,2018,Jan,1
+182,Ohio,Chardon,3,3,High,ChardonHighSchool,27,2012,Feb,2
+183,Ohio,Cleveland,1,5,High,SuccessesalternativeHighschool,10,2007,Oct,10
+184,Ohio,Cleveland,1,2,University,CaseWesternReserveUniversity,9,2003,May,5
+185,Ohio,Columbus,2,1,University,OhioStateUniversity,9,2010,Mar,3
+186,Ohio,Columbus,0,2,High,LindenMcKinleySTEMAcademy,13,2016,Oct,10
+187,Ohio,Lyndhurst,0,0,High,CharlesF.BrushHighSchool,10,2014,Feb,2
+188,Ohio,Middletown,0,4,High,MadisonHighSchool,29,2016,Feb,2
+189,Ohio,West Liberty,0,1,High,WestLiberty-SalemHighSchool,20,2017,Jan,1
+190,Ohio,Willoughby,0,0,High,SouthHighSchool,2,2008,Sep,9
+191,Oregon,Eugene,1,0,Middle,CascadeMiddleSchool,11,2019,Jan,1
+192,Oregon,Eugene,1,0,College,LaneCommunityCollege,4,2019,May,5
+193,Oregon,Portland,0,4,High,RosemaryAndersonHighSchool,12,2014,Dec,12
+194,Oregon,Roseburg,0,1,High,RoseburgHighSchool,23,2006,Feb,2
+195,Oregon,Roseburg,10,9,College,UmpquaCommunityCollege,1,2015,Oct,10
+196,Oregon,Troutdale,2,1,High,ReynoldsHighSchool,10,2014,Jun,6
+197,Pennsylvania,Chester,0,1,University,WidenerUniversity,20,2014,Jan,1
+199,Pennsylvania,Philadelphia,0,2,High,DelawareValleyCharterSchool,17,2014,Jan,1
+200,Pennsylvania,Philadelphia,0,0,High,FranklinHighSchool,29,2016,Jan,1
+201,Pennsylvania,Philadelphia,1,0,High,LincolnHighSchool,31,2018,Jan,1
+202,Pennsylvania,Pittsburgh,0,5,University,DuquesneUniversity,17,2006,Sep,9
+203,Pennsylvania,Pittsburgh,0,3,High,BrashearHighSchool,13,2013,Nov,11
+204,Pennsylvania,Red Lion,2,0,High,RedLionAreaJuniorHighSchool,24,2003,Apr,4
+205,Pennsylvania,Williamsport,0,1,High,NeumannHighSchool,7,2001,Mar,3
+206,RhodeIsland,Providence,1,1,Institute,ProvidenceCareerandTechnicalAcademy,5,2018,Sep,9
+207,SouthCarolina,Orangeburg,1,0,University,SouthCarolinaStateUniversity,24,2014,Jan,1
+208,SouthCarolina,Townville,2,2,Elementary,TownvilleElementarySchool,28,2016,Sep,9
+209,SouthDakota,Harrisburg,0,1,High,HarrisburgHighSchool,30,2015,Sep,9
+211,Tennessee,Jacksboro,1,2,High,CampbellCountyHighSchool,8,2005,Nov,11
+212,Tennessee,Jackson,0,1,High,TechnologyMagnetHighSchool,9,2014,Jan,1
+213,Tennessee,Knoxville,1,0,High,CentralHighSchool,21,2008,Aug,8
+214,Tennessee,Memphis,0,1,High,MitchellHighSchool,11,2008,Feb,2
+215,Tennessee,Memphis,0,1,High,HamiltonHighSchool,4,2008,Feb,2
+216,Tennessee,Memphis,0,2,High,HamiltonHighSchool,16,2012,Aug,8
+217,Tennessee,Memphis,0,1,High,FairleyHighSchool,10,2018,Sep,9
+218,Tennessee,Memphis,0,1,High,ManassasHighSchool,31,2019,Jan,1
+219,Tennessee,Nashville,0,1,University,TennesseeStateUniversity,28,2014,Jan,1
+220,Tennessee,Nashville,1,3,University,TennesseeStateUniversity,22,2015,Oct,10
+221,Tennessee,Nashville,0,1,High,Pearl-CohnHighSchool,9,2018,Feb,2
+222,Texas,Alpine,1,2,High,AlpineHighSchool,9,2016,Sep,9
+223,Texas,Austin,1,1,University,UniversityofTexas ,28,2010,Sep,9
+224,Texas,Denison,0,0,College,GraysonCollege,10,2018,Jan,1
+225,Texas,Edinburg,0,2,Middle,HarwellMiddleSchool,9,2011,Dec,12
+226,Texas,Houston,1,5,High,WorthingHighSchool,31,2011,Mar,3
+227,Texas,Houston,0,1,High,NorthForestHighSchool,10,2012,Jan,1
+228,Texas,Houston,0,3,College,LoneStarCollege–NorthHarris,22,2013,Jan,1
+229,Texas,Houston,1,1,University,TexasSouthernUniversity,9,2015,Oct,10
+230,Texas,Humble,0,1,High,AtascocitaHighSchool,31,2019,Jan,1
+231,Texas,Irving,2,0,College,NorthLakeCollege,4,2017,May,5
+232,Texas,Italy,0,1,High,ItalyHighSchool,22,2018,Jan,1
+233,Texas,Prairie View,0,0,University,PrairieViewA&MUniversity,30,2019,Jan,1
+234,Texas,Santa Fe,10,13,High,SantaFeHighSchool,18,2018,May,5
+235,Texas,Texas City,0,3,College,CollegeoftheMainland,25,2019,Apr,4
+237,Utah,Sandy,0,1,Middle,UnionMiddleSchool,25,2016,Oct,10
+238,Utah,Taylorsville,0,1,Elementary,WestbrookElementarySchool,11,2014,Sep,9
+239,Vermont,Essex Junction,2,3,Elementary,EssexElementarySchool,24,2006,Aug,8
+240,Virginia,Blacksburg,33,23,University,VirginiaTech,16,2007,Apr,4
+241,Virginia,Blacksburg,2,0,University,RadfordUniversity,8,2011,Dec,12
+242,Virginia,Christiansburg,0,2,College,NewRiverCommunityCollege,12,2013,Apr,4
+243,Virginia,Grundy,3,3,University,AppalachianSchoolofLaw,16,2002,Jan,1
+244,Virginia,Hampton,0,3,University,HamptonUniversity,26,2009,Apr,4
+245,Virginia,Norfolk,0,1,University,NorfolkStateUniversity,27,2018,Feb,2
+246,Washington,Federal Way,1,0,Middle,LakotaMiddleSchool,14,2008,Aug,8
+247,Washington,Marysville,5,1,High,MarysvillePilchuckHighSchool,24,2014,Oct,10
+248,Washington,Parkland,2,0,University,PacificLutheranUniversity,16,2001,May,5
+249,Washington,Rockford,1,3,High,FreemanHighSchool,13,2017,Sep,9
+250,Washington,Seattle,2,0,University,UniversityofWashingtonMedicalCenter,28,2000,Jun,6
+251,Washington,Seattle,1,3,University,SeattlePacificUniversity,5,2014,Jun,6
+252,Washington,Seattle,0,1,University,UniversityofWashington,20,2017,Jan,1
+253,Washington,Tacoma,1,0,High,HenryFossHighSchool,3,2007,Jan,1
+254,WestVirginia,Shepherdstown,3,0,University,ShepherdUniversity,2,2006,Sep,9
+255,Wisconsin,Antigo,1,2,High,AntigoHighSchool,23,2016,Apr,4
+256,Wisconsin,Cazenovia,1,0,High,WestonHighSchoolshooting,29,2006,Sep,9
+257,Wisconsin,Marinette,1,0,High,MarinetteHighSchool,29,2010,Nov,11
+258,Wisconsin,Milwaukee,1,0,High,WashingtonHighSchool,20,2002,Feb,2
+259,Wisconsin,Milwaukee,0,3,High,WisconsinLutheranHighSchool,15,2015,Jan,1
+260,Wyoming,Cheyenne,0,0,High,CheyenneSouthHighSchool,28,2019,Feb,2
