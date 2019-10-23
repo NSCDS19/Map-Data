@@ -1,0 +1,253 @@
+﻿ID,State,City,Death,Injury,School Type,Name School,Day,Year,Month Name,Month
+1,Alabama,Birmingham,0,0,Middle,Ossie Ware Mitchell Middle School,14,2013,May,5
+2,Alabama,Birmingham,1,2,High,Huffman High School,7,2018,Mar,3
+3,Alabama,Birmingham,2,1,University,University of Alabama at Birmingham,14,2018,Mar,3
+4,Alabama,Blounstville,0,1,Elementary,Blountsville Elementary School,22,2019,Mar,3
+5,Alabama,Huntsville,3,3,University,University of Alabama,12,2010,Feb,2
+6,Alabama,Madison,1,0,Middle,Discovery Middle School,5,2010,Feb,2
+7,Alabama,Mobile,0,1,High,Vigor High School,11,2016,Oct,10
+8,Alabama,Mobile,0,1,University,University of South Alabama,8,2018,Mar,3
+9,Alabama,Mobile,0,2,High,Davidson High School,25,2019,Jan,1
+10,Alabama,Montgomery,0,1,High,Robert E. Lee High School,26,2019,Feb,2
+11,Arizona,Flagstaff,1,3,University,Northern Arizona University,9,2015,Oct,10
+12,Arizona,Glendale,2,0,High,Independence High School,12,2016,Feb,2
+13,Arizona,Tucson,4,0,University,University of Arizona,28,2002,Oct,10
+14,Arkansas,Conway,2,1,University,University of Central Arkansas,26,2008,Oct,10
+15,Arkansas,Fayetteville,2,0,University,University of Arkansas,28,2000,Aug,8
+16,Arkansas,Jonesboro,0,1,University,Arkansas State University ,23,2008,Jan,1
+17,Arkansas,Little Rock,0,1,University,University of Arkansas ,27,2008,Feb,2
+18,Arkansas,Prescott,0,1,High,Prescott High School,1,2019,Apr,4
+19,California,Belmont,1,0,Elementary,Central Elementary School,7,2019,Jan,1
+20,California,Carlsbad,0,2,Elementary,Kelly Elementary School,8,2010,Oct,10
+21,California,Compton,0,1,High,Centennial High School,7,2007,Mar,3
+22,California,El Cajon,0,5,High,Granite Hills High School,22,2001,Mar,3
+23,California,Fresno,0,1,High,Edison High School,19,2013,Dec,12
+24,California,King City,0,1,High,King City High School,21,2017,Mar,3
+25,California,Los Angeles,0,4,University,University of Southern California,31,2012,Oct,10
+26,California,Los Angeles,1,0,College,Los Angeles Valley College,25,2014,Jan,1
+27,California,Los Angeles,0,1,University,University of Southern California,12,2014,Feb,2
+28,California,Los Angeles,3,0,University,University of California,1,2016,Jun,6
+29,California,Los Angeles,0,5,High,Belmont High School,1,2018,Feb,2
+30,California,Merced,1,0,Middle,Tenaya Middle School,14,2015,Feb,2
+31,California,Oakland,7,3,University,Oikos University,2,2012,Apr,4
+32,California,Oxnard,1,0,Elementary,E.O. Green Junior High School,12,2008,Feb,2
+33,California,Palmdale,0,1,High,Highland High School,11,2018,May,5
+34,California,Rancho Tehama Reserve,6,18,Elementary,Rancho Tehama Elementary School,14,2017,Nov,11
+35,California,Richmond,0,1,High,John F. Kennedy High School,14,2014,May,5
+36,California,Sacramento,1,2,College,Sacramento City College,3,2015,Sep,9
+37,California,Salinas,1,0,High,Alisal High School ,1,2010,Oct,10
+38,California,San Bernardino,3,1,Elementary,North Park Elementary School,10,2017,Apr,4
+39,California,San Bruno,0,1,College ,Skyline College ,3,2009,Sep,9
+40,California,San Diego,0,1,High,Junipero Serra High School ,1,2000,Dec,12
+41,California,San Francisco,0,3,High,International Studies Academy,16,2009,Jun,6
+42,California,San Francisco,0,4,High,June Jordan High School ,18,2016,Oct,10
+43,California,San Francisco,0,1,High,Balboa High School,30,2018,Aug,8
+44,California,Santa Monica,6,4,College,Santa Monica College,7,2013,Jun,6
+45,California,Santee,2,13,High,Santana High School,5,2001,Mar,3
+46,California,Seaside,0,1,High,Seaside High School,13,2018,Mar,3
+47,California,Taft,0,2,High,Taft Union High School,10,2013,Jan,1
+48,Colorado,Arapahoe County,1,0,High,Eaglecrest High School,17,2019,Feb,2
+49,Colorado,Aurora,0,1,High,Aurora Central High School,6,2010,Dec,12
+50,Colorado,Bailey,2,0,High,Platte Canyon High School ,27,2006,Sep,9
+51,Colorado,Centennial,2,0,High,Arapahoe High School,13,2013,Dec,12
+53,Colorado,Littleton,0,2,Middle,Deer Creek Middle School,23,2010,Feb,2
+54,Connecticut,New Haven,0,1,High,Hillhouse High School ,13,2014,Jan,1
+55,Connecticut,Newtown,28,2,Elementary,Sandy Hook Elementary School,14,2012,Dec,12
+57,Delaware,Dover,1,1,University,Delaware State University ,21,2007,Sep,9
+56,DistricofColumbia,Washington,1,0,High,Ballou High School ,2,2004,Feb,2
+58,Florida,Daytona Beach,0,3,University,Bethune-Cookman University ,23,2015,Feb,2
+59,Florida,Fort Lauderdale,1,0,High,Dillard High School,12,2008,Nov,11
+62,Florida,Lake Worth,1,0,Middle,Lake Worth Middle School ,26,2000,May,5
+63,Florida,Miami,0,1,High,Stellar Leadership Academy,9,2014,Sep,9
+64,Florida,Miami,1,1,High,Miami Carol City High School,20,2014,Nov,11
+65,Florida,Miami,0,0,University,Florida International University ,3,2019,Jan,1
+66,Florida,Miami Gardens,0,1,High,Miami Carol City High School,11,2008,Feb,2
+67,Florida,Ocala,0,2,High,Vanguard High School,16,2015,Jan,1
+68,Florida,Ocala,0,1,High,Forest High School,20,2018,Apr,4
+69,Florida,Orlando,1,0,University,University of Central Florida,18,2013,Mar,3
+70,Florida,Palm Bay,0,1,College,Eastern Florida State College,30,2014,Jan,1
+71,Florida,Parkland,17,17,High,Marjory Stoneman Douglas High School,14,2018,Feb,2
+72,Florida,Pine Hills,0,2,Preschool,Agape Christian Academy ,4,2013,Oct,10
+73,Florida,Riverview,0,0,Elementary,Summerfield Elementary School,6,2019,May,5
+74,Florida,Tallahassee,1,3,University,lorida State University,20,2014,Nov,11
+75,Florida,Wellington,0,2,High,Palm Beach Central High School ,17,2018,Aug,8
+76,Florida,Winter Garden,0,1,High,West Orange High School,4,2013,Dec,12
+77,Georgia,Albany,0,1,University,Albany State University ,19,2011,Aug,8
+78,Georgia,Albany,0,2,University,Albany State University,13,2017,Nov,11
+79,Georgia,Atlanta,0,0,University,Georgia State University,20,2018,Aug,8
+80,Georgia,Atlanta,0,2,Middle,Price Middle School,31,2013,Jan,1
+81,Georgia,Augusta,0,1,University,Georgia Regents University,22,2014,Feb,2
+82,Georgia,Augusta,0,1,College,Paine College ,4,2014,May,5
+83,Georgia,Augusta,0,1,College,Paine College ,5,2014,May,5
+84,Georgia,College Park,0,0,High,Benjamin Banneker High ,25,2014,Mar,3
+85,Georgia,DeKalb County,0,10,Elementary,Wynbrooke Elementary School ,25,2019,Apr,4
+86,Georgia,Fairburn,1,0,High,Langston Hughes High School ,3,2014,Oct,10
+87,Georgia,Jonesboro,1,3,High,Mount Zion High School,18,2018,May,5
+88,Georgia,Lawrenceville,0,1,College,Georgia Gwinnett College,8,2014,May,5
+89,Georgia,Lithonia,0,2,High,Stephenson High School,3,2013,Nov,11
+90,Georgia,Lithonia,0,1,High,Miller Grove High School ,30,2019,Jan,1
+91,Georgia,Savannah,1,0,University,Savannah State University,27,2015,Aug,8
+92,Georgia,Savannah,1,0,University,Savannah State University,24,2018,Feb,2
+93,Georgia,Savannah,0,1,University,Savannah State University,7,2019,May,5
+95,Illinois,Carbondale,0,1,High,Rebound High School ,27,2014,Jan,1
+96,Illinois,Chicago,0,5,High,Dunbar High School,9,2009,Jan,1
+97,Illinois,Chicago,0,1,High,Harlan Community Academy High School,13,2005,Sep,9
+98,Illinois,Chicago,0,1,High,Bowen High School,8,2005,Feb,2
+99,Illinois,Chicago,1,0,High,Banner Academy South ,19,2012,Oct,10
+100,Illinois,Chicago,1,0,University,Chicago State University,16,2013,Jan,1
+101,Illinois,DeKalb,6,21,University,Northern Illinois University,14,2008,Feb,2
+102,Illinois,DeKalb,0,1,University,Northern Illinois University,19,2010,Feb,2
+103,Illinois,Dixon,0,1,High,Highland High School,16,2018,May,5
+104,Illinois,Mattoon,0,1,High,Mattoon High School,20,2017,Sep,9
+105,Illinois,Normal,0,0,High,Normal Community High School,7,2012,Sep,9
+106,Indiana,Gary,1,0,High,Lew Wallace High School,30,2001,Mar,3
+107,Indiana,Indianapolis,0,1,High,Lawrence Central High School,22,2016,Jan,1
+108,Indiana,Martinsville,0,1,Middle,Martinsville West Middle School,25,2011,Mar,3
+109,Indiana,Noblesville,0,2,Middle,Noblesville West Middle School,25,2018,May,5
+110,Indiana,Richmond,1,0,Middle,Dennis Intermediate School,13,2018,Dec,12
+111,Indiana,Terre Haute,0,1,University,Indiana State University,27,2014,Sep,9
+112,Indiana,West Lafayette,1,0,University,Purdue University,21,2014,Jan,1
+113,Iowa,Des Moines,0,1,High,North High School,31,2014,Jan,1
+114,Kansas,Overland Park,0,2,Middle,Lakewood Middle School ,19,2019,Jan,1
+115,Kentucky,Hazard,3,0,College,Hazard Community and Technical College,15,2013,Jan,1
+116,Kentucky,Lexington,0,1,High,Frederick Douglass High School,9,2018,Mar,3
+117,Kentucky,Louisville,0,1,High,Fern Creek Traditional High School,30,2014,Sep,9
+118,Kentucky,Marshall County,2,18,High,Marshall County High School,23,2018,Jan,1
+119,Louisiana,Baton Rouge,3,0,College,Louisiana Technical College ,8,2008,Feb,2
+120,Louisiana,Grambling,0,3,University,Grambling State University,16,2013,Apr,4
+121,Louisiana,Grambling,0,1,University,Grambling State University,7,2019,Mar,3
+122,Louisiana,Larose,1,0,Middle,Larose-Cut Off Middle School ,18,2009,May,5
+123,Louisiana,New Orleans,1,3,High,John McDonogh High School ,14,2003,Apr,4
+124,Louisiana,New Orleans,0,2,Middle,Carter G. Woodson Middle School,26,2000,Sep,9
+125,Louisiana,New Orleans,0,1,High,NET Charter High School,22,2018,Jan,1
+126,Louisiana,Paradis,0,1,Middle,J.B. Martin Middle School,16,2015,Apr,4
+127,Maryland,Baltimore,0,1,High,Frederick Douglass High School,8,2019,Feb,2
+128,Maryland,Bowie,0,1,Middle,Benjamin Tasker Middle School ,7,2002,Oct,10
+129,Maryland,Frederick,0,2,High,Frederick High School ,4,2015,Feb,2
+130,Maryland,Great Mills,2,1,High,Great Mills High School,20,2018,Mar,3
+131,Maryland,Oxon Hill,0,1,High,Oxon Hill High School,5,2018,Feb,2
+132,Maryland,Perry Hall,0,1,High,Perry Hall School,27,2012,Aug,8
+133,Maryland,Randallstown,0,4,High,Randallstown High School,7,2004,May,5
+134,Massachusetts,Cambridge,1,0,College,Harvard College,18,2009,May,5
+135,Massachusetts,Cambridge,1,0,Institute,Massachusetts Institute of Technology,18,2013,Apr,4
+136,Massachusetts,Dorchester,1,3,High,Jeremiah Burke High School ,8,2016,Jun,6
+137,Michigan,Detroit,1,3,High,Ford High School,16,2008,Oct,10
+138,Michigan,Detroit,0,2,High,Mumford High School,8,2010,Sep,9
+139,Michigan,Detroit,0,1,High,Osborn High School,12,2013,Jan,1
+140,Michigan,Detroit,1,0,High,East English Village Preparatory Academy,11,2014,Apr,4
+141,Michigan,Flint,1,0,Elementary,Buell Elementary School,29,2000,Feb,2
+142,Michigan,Flint,0,7,High,Southwestern Classical Academy ,24,2015,May,5
+143,Michigan,Mount Pleasant,2,0,University,Central Michigan University,2,2018,Mar,3
+144,Michigan,Muskegon Heights,0,4,High,Muskegon Heights High School,9,2016,Feb,2
+145,Minnesota,Cold Spring,2,0,High,Rocori High School ,24,2003,Sep,9
+146,Minnesota,Red Lake,10,7,High,Red Lake Senior High School,21,2005,Mar,3
+147,Mississippi,Cleveland,2,0,University,Delta State University ,14,2015,Sep,9
+148,Mississippi,Columbus,0,1,University,Mississippi University for Women,4,2019,Jan,1
+150,Mississippi,Itta Bena,0,1,University,Mississippi Valley State University,27,2018,Feb,2
+151,Mississippi,Jackson,0,1,University,Jackson State University,7,2018,Mar,3
+152,Mississippi,Sardis,1,2,High,North Panola High School ,23,2013,Aug,8
+153,Missouri,Joplin,0,0,Middle,Memorial Middle School,9,2006,Oct,10
+154,Missouri,Kansas City,1,0,High,Central Academy of Excellence,12,2019,Feb,2
+155,Missouri,Raytown,0,1,Middle,South Middle School,12,2018,Apr,4
+156,Missouri,St. Louis,0,2,Institute,Stevens Institute of Business and Arts,15,2013,Jan,1
+157,Missouri,University City,0,1,Elementary,Pershing Elementary School,30,2015,Mar,3
+158,Nebraska,Omaha,2,2,High,Millard South High School,5,2011,Jan,1
+159,Nevada,Las Vegas,1,0,High,Canyon Springs High School,11,2018,Sep,9
+160,Nevada,North Las Vegas,1,0,High,Mojave High School,20,2015,Nov,11
+161,Nevada,Reno,0,2,Middle,Pine Middle School,14,2006,Mar,3
+162,Nevada,Sparks,2,2,Middle,Sparks Middle School,21,2013,Oct,10
+163,NewJersey,Jersey City,0,1,High,Lincoln High School,29,2002,Oct,10
+164,NewJersey,Jersey City,0,0,High,Snyder High School,2,2019,Jan,1
+165,NewMexico,Aztec,3,0,High,Aztec High School,7,2017,Dec,12
+166,NewMexico,Rio Rancho,0,0,High,Cleveland High School ,14,2019,Feb,2
+167,NewMexico,Roswell,0,3,Middle,Berrendo Middle School,14,2014,Jan,1
+168,NewYork,East Greenbush,0,1,High,Columbia High School ,9,2004,Feb,2
+169,NewYork,New York City,0,2,High,Martin Luther King Jr. High School,15,2002,Jan,1
+170,NorthCarolina,Albemarle,0,1,High,Albemarle High School,30,2014,Sep,9
+171,NorthCarolina,Bladenboro,0,1,High,West Bladen High School,11,2010,May,5
+172,NorthCarolina,Charlotte,2,4,University,University of North Carolina at Charlotte,30,2019,Apr,4
+173,NorthCarolina,Fayetteville,0,1,High,Cape Fear High School ,24,2011,Oct,10
+174,NorthCarolina,Goldsboro,1,0,College,Wayne Community College,13,2015,Apr,4
+175,NorthCarolina,Greensboro,0,1,University,North Carolina A&T State University,2,2013,Nov,11
+176,NorthCarolina,Hillsborough,1,2,High,Columbine High school ,30,2006,Aug,8
+177,NorthCarolina,Matthews,1,1,High,Canyon Springs High School,29,2018,Oct,10
+178,NorthCarolina,Salisbury,0,1,High,Salisbury High School ,10,2014,Feb,2
+179,NorthCarolina,Winston-Salem,0,1,High,Carver High School,30,2013,Aug,8
+180,NorthCarolina,Winston-Salem,1,1,University,Winston-Salem State University,1,2015,Nov,11
+181,NorthCarolina,Winston-Salem,1,0,University,Wake Forest University,20,2018,Jan,1
+182,Ohio,Chardon,3,3,High,Chardon High School,27,2012,Feb,2
+183,Ohio,Cleveland,1,5,High,Successes alternative High school,10,2007,Oct,10
+184,Ohio,Cleveland,1,2,University,Case Western Reserve University,9,2003,May,5
+185,Ohio,Columbus,2,1,University,Ohio State University,9,2010,Mar,3
+186,Ohio,Columbus,0,2,High,Linden McKinley STEM Academy,13,2016,Oct,10
+187,Ohio,Lyndhurst,0,0,High,Charles F. Brush High School,10,2014,Feb,2
+188,Ohio,Middletown,0,4,High,Madison High School,29,2016,Feb,2
+189,Ohio,West Liberty,0,1,High,West Liberty-Salem High School,20,2017,Jan,1
+190,Ohio,Willoughby,0,0,High,South High School,2,2008,Sep,9
+191,Oregon,Eugene,1,0,Middle,Cascade Middle School ,11,2019,Jan,1
+192,Oregon,Eugene,1,0,College,Lane Community College,4,2019,May,5
+193,Oregon,Portland,0,4,High,Rosemary Anderson High School,12,2014,Dec,12
+194,Oregon,Roseburg,0,1,High,Roseburg High School,23,2006,Feb,2
+195,Oregon,Roseburg,10,9,College,Umpqua Community College,1,2015,Oct,10
+196,Oregon,Troutdale,2,1,High,Reynolds High School,10,2014,Jun,6
+197,Pennsylvania,Chester,0,1,University,Widener University,20,2014,Jan,1
+199,Pennsylvania,Philadelphia,0,2,High,Delaware Valley Charter School,17,2014,Jan,1
+200,Pennsylvania,Philadelphia,0,0,High,Franklin High School,29,2016,Jan,1
+201,Pennsylvania,Philadelphia,1,0,High,Lincoln High School,31,2018,Jan,1
+202,Pennsylvania,Pittsburgh,0,5,University,Duquesne University,17,2006,Sep,9
+203,Pennsylvania,Pittsburgh,0,3,High,Brashear High School,13,2013,Nov,11
+204,Pennsylvania,Red Lion,2,0,High,Red Lion Area Junior High School ,24,2003,Apr,4
+205,Pennsylvania,Williamsport,0,1,High,Neumann High School,7,2001,Mar,3
+206,RhodeIsland,Providence,1,1,Institute,Providence Career and Technical Academy,5,2018,Sep,9
+207,SouthCarolina,Orangeburg,1,0,University,South Carolina State University,24,2014,Jan,1
+208,SouthCarolina,Townville,2,2,Elementary,Townville Elementary School ,28,2016,Sep,9
+209,SouthDakota,Harrisburg,0,1,High,Harrisburg High School ,30,2015,Sep,9
+211,Tennessee,Jacksboro,1,2,High,Campbell County High School,8,2005,Nov,11
+212,Tennessee,Jackson,0,1,High,Technology Magnet High School ,9,2014,Jan,1
+213,Tennessee,Knoxville,1,0,High,Central High School,21,2008,Aug,8
+214,Tennessee,Memphis,0,1,High,Mitchell High School,11,2008,Feb,2
+215,Tennessee,Memphis,0,1,High,Hamilton High School,4,2008,Feb,2
+216,Tennessee,Memphis,0,2,High,Hamilton High School ,16,2012,Aug,8
+217,Tennessee,Memphis,0,1,High,Fairley High School,10,2018,Sep,9
+218,Tennessee,Memphis,0,1,High,Manassas High School,31,2019,Jan,1
+219,Tennessee,Nashville,0,1,University,Tennessee State University,28,2014,Jan,1
+220,Tennessee,Nashville,1,3,University,Tennessee State University,22,2015,Oct,10
+221,Tennessee,Nashville,0,1,High,Pearl-Cohn High School,9,2018,Feb,2
+222,Texas,Alpine,1,2,High,Alpine High School,9,2016,Sep,9
+223,Texas,Austin,1,1,University,University of Texas ,28,2010,Sep,9
+224,Texas,Denison,0,0,College,Grayson College,10,2018,Jan,1
+225,Texas,Edinburg,0,2,Middle,Harwell Middle School ,9,2011,Dec,12
+226,Texas,Houston,1,5,High,Worthing High School,31,2011,Mar,3
+227,Texas,Houston,0,1,High,North Forest High School,10,2012,Jan,1
+228,Texas,Houston,0,3,College,Lone Star College–North Harris,22,2013,Jan,1
+229,Texas,Houston,1,1,University,Texas Southern University,9,2015,Oct,10
+230,Texas,Humble,0,1,High,Atascocita High School,31,2019,Jan,1
+231,Texas,Irving,2,0,College,North Lake College,4,2017,May,5
+232,Texas,Italy,0,1,High,Italy High School,22,2018,Jan,1
+233,Texas,Prairie View,0,0,University,Prairie View A&M University,30,2019,Jan,1
+234,Texas,Santa Fe,10,13,High,Santa Fe High School ,18,2018,May,5
+235,Texas,Texas City,0,3,College,College of the Mainland,25,2019,Apr,4
+237,Utah,Sandy,0,1,Middle,Union Middle School,25,2016,Oct,10
+238,Utah,Taylorsville,0,1,Elementary,Westbrook Elementary School,11,2014,Sep,9
+239,Vermont,Essex Junction,2,3,Elementary,Essex Elementary School ,24,2006,Aug,8
+240,Virginia,Blacksburg,33,23,University,Virginia Tech,16,2007,Apr,4
+241,Virginia,Blacksburg,2,0,University,Radford University,8,2011,Dec,12
+242,Virginia,Christiansburg,0,2,College,New River Community College,12,2013,Apr,4
+243,Virginia,Grundy,3,3,University,Appalachian School of Law,16,2002,Jan,1
+244,Virginia,Hampton,0,3,University,Hampton University,26,2009,Apr,4
+245,Virginia,Norfolk,0,1,University,Norfolk State University,27,2018,Feb,2
+246,Washington,Federal Way,1,0,Middle,Lakota Middle School ,14,2008,Aug,8
+247,Washington,Marysville,5,1,High,Marysville Pilchuck High School ,24,2014,Oct,10
+248,Washington,Parkland,2,0,University,Pacific Lutheran University,16,2001,May,5
+249,Washington,Rockford,1,3,High,Freeman High School,13,2017,Sep,9
+250,Washington,Seattle,2,0,University,University of Washington Medical Center,28,2000,Jun,6
+251,Washington,Seattle,1,3,University,Seattle Pacific University,5,2014,Jun,6
+252,Washington,Seattle,0,1,University,University of Washington,20,2017,Jan,1
+253,Washington,Tacoma,1,0,High,Henry Foss High School,3,2007,Jan,1
+254,WestVirginia,Shepherdstown,3,0,University,Shepherd University,2,2006,Sep,9
+255,Wisconsin,Antigo,1,2,High,Antigo High School,23,2016,Apr,4
+256,Wisconsin,Cazenovia,1,0,High,Weston High School shooting,29,2006,Sep,9
+257,Wisconsin,Marinette,1,0,High,Marinette High School ,29,2010,Nov,11
+258,Wisconsin,Milwaukee,1,0,High,Washington High School,20,2002,Feb,2
+259,Wisconsin,Milwaukee,0,3,High,Wisconsin Lutheran High School,15,2015,Jan,1
+260,Wyoming,Cheyenne,0,0,High,Cheyenne South High School,28,2019,Feb,2
